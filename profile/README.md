@@ -20,6 +20,7 @@
 | Репозиторій | Що це |
 |---|---|
 | [otfk](https://github.com/OTFC-ONTU/otfk) | Офіційний сайт коледжу — Laravel, Filament, Tailwind |
+| [LabControl](https://github.com/OTFC-ONTU/LabControl) | Керування комп’ютерним класом: екрани учнівських ПК, живлення, скрипти й файли на весь клас — .NET, Avalonia, gRPC |
 
 ### Участь
 
