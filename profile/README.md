@@ -21,7 +21,7 @@
 |---|---|
 | [otfk](https://github.com/OTFC-ONTU/otfk) | Офіційний сайт коледжу — Laravel, Filament, Tailwind |
 | [LabControl](https://github.com/OTFC-ONTU/LabControl) | Керування комп’ютерним класом: екрани учнівських ПК, живлення, скрипти й файли на весь клас — .NET, Avalonia, gRPC |
-| [otfk-agent-skills](https://github.com/OTFC-ONTU/otfk-agent-skills) | Інструментарій викладача для ШІ-агентів (Claude Code, Codex, Cursor, Copilot): скіли для робочих програм, лекцій і презентацій, лабораторних, Google Classroom і перевірки робіт студентів |
+| [otfk-agent-skills](https://github.com/OTFC-ONTU/otfk-agent-skills) | Інструментарій для ШІ-агентів (Claude Code, Codex, Cursor, Copilot): скіли для документів, презентацій, Google Classroom і перевірки робіт |
 
 ### Участь
 
